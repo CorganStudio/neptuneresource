@@ -1,0 +1,30 @@
+# NeptuneResource
+
+> Domain research archive for Neptune. Literature reviews and primary-source analyses. Curated by Corgan Studio, Inc.
+
+Research Archive: https://neptuneresource.net/research/ (literature reviews by Corgan Studio, Inc., open to read).
+
+## Research Archive
+
+- [Neptune interior heat balance and excess luminosity](https://neptuneresource.net/research/neptune-interior-heat): Review of Neptune's measured 2.6x excess thermal luminosity over absorbed solar flux, the implications for interior structure and convection, and the contrast with Uranus's measured zero or negative excess luminosity.
+- [Neptune and Kuiper Belt interaction history](https://neptuneresource.net/research/neptune-kuiper-interaction): Review of the dynamical relationship between Neptune and the Kuiper Belt, including the resonance-trapping populations swept up during Neptune's outward migration, the cold-vs-hot classical Kuiper Belt dichotomy, and the present-day scattered-disc and Centaur supply chain.
+- [Neptune storm lifecycles and Great Dark Spot analogs](https://neptuneresource.net/research/neptune-storm-lifecycles): Review of the Voyager 2 Great Dark Spot, the subsequent Hubble and JWST records of comparable transient storms, and the inferred lifetime statistics for Neptune's discrete-vortex weather features.
+- [Triton cryovolcanism and polar cap migration](https://neptuneresource.net/research/triton-cryovolcanism): Review of the Voyager 2 cryovolcanism evidence at Triton, the active geyser plumes observed during the 1989 flyby, the seasonal polar cap migration, and the implications for Triton's interior thermal state and capture history.
+- [Triton's retrograde orbit: capture mechanism and present-day cryovolcanism](https://neptuneresource.net/research/triton-retrograde-orbit): Review of Triton's anomalous retrograde orbit, the binary-capture model favoured for its origin, and the Voyager 2 evidence for ongoing nitrogen-driven cryovolcanism on a captured Kuiper Belt object.
+
+## Related archives
+
+- [TerraResource Research Archive](https://terraresource.net/research/)
+- [MoonResource Research Archive](https://moonresource.com/research/)
+- [MarsResource Research Archive](https://marsresource.net/research/)
+- [SunResource Research Archive](https://sunresource.net/research/)
+- [MercuryResource Research Archive](https://mercuryresource.net/research/)
+- [VenusResource Research Archive](https://venusresource.net/research/)
+- [JupiterResource Research Archive](https://jupiterresource.net/research/)
+- [SaturnResource Research Archive](https://saturnresource.net/research/)
+- [UranusResource Research Archive](https://uranusresource.net/research/)
+- [PlutoResource Research Archive](https://plutoresource.net/research/)
+- [GalacticResource Research Archive](https://galacticresource.com/research/)
+- [SolarSystemResource Research Archive](https://solarsystemresource.com/research/)
+
+Sitemap: https://neptuneresource.net/sitemap.xml
